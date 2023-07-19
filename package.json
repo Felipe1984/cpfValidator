@@ -1,0 +1,17 @@
+{
+  "name": "cpf_calc",
+  "version": "1.0.0",
+  "description": "it's a simple cpf validator function that you can use to check if the CPF number is valid.",
+  "main": "cpfValidator.js",
+  "scripts": {
+    "start": "node cpfValidator.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cpf",
+    "validador de cpf",
+    "cpf validator"
+  ],
+  "author": "Felipe Britto dos Anjos",
+  "license": "MIT"
+}
